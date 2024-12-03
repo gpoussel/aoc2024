@@ -9,7 +9,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 1. [Bash](./day-01/)
 2. [PowerShell](./day-02/)
 3. [Excel (formula)](./day-03/)
-4. Zig
+4. [Zig](./day-04/)
 5. Excel (VBA)
 6. Lua
 7. SQL
