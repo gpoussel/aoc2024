@@ -12,7 +12,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 4. [Zig](./day-04/)
 5. [Excel (VBA)](./day-05/)
 6. [Lua](./day-06/)
-7. SQL
+7. [SQL](./day-07/)
 8. Matlab
 9. PHP
 10. Scala
