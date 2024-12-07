@@ -1,0 +1,4 @@
+data = importdata('./example');
+
+
+

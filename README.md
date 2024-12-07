@@ -13,7 +13,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 5. [Excel (VBA)](./day-05/)
 6. [Lua](./day-06/)
 7. [SQL](./day-07/)
-8. Matlab
+8. [Matlab](./day-08/)
 9. PHP
 10. Scala
 11. Go
