@@ -14,7 +14,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 6. [Lua](./day-06/)
 7. [SQL](./day-07/)
 8. [Matlab](./day-08/)
-9. PHP
+9. [PHP](./day-09/)
 10. Scala
 11. Go
 12. Groovy
