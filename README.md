@@ -16,7 +16,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 8. [Matlab](./day-08/)
 9. [PHP](./day-09/)
 10. [Scala](./day-10/)
-11. Go
+11. [Go](./day-11/)
 12. Groovy
 13. Julia
 14. Elixir
