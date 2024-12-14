@@ -19,7 +19,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 11. [Go](./day-11/)
 12. [Groovy](./day-12/)
 13. [Julia](./day-13/)
-14. Elixir
+14. [Elixir](./day-14/)
 15. C
 16. Haskell
 17. Rust
