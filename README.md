@@ -20,7 +20,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 12. [Groovy](./day-12/)
 13. [Julia](./day-13/)
 14. [Elixir](./day-14/)
-15. C
+15. [C](./day-15/)
 16. Haskell
 17. Rust
 18. C++
