@@ -21,7 +21,7 @@ This year, I've decided to add an extra twist to the challenge by solving each d
 13. [Julia](./day-13/)
 14. [Elixir](./day-14/)
 15. [C](./day-15/)
-16. Haskell
+16. [Haskell](./day-16/)
 17. Rust
 18. C++
 19. Kotlin
